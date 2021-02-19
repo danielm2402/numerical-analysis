@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/daniel2402/Desktop/dev/c/numerical-analysis/bisection-method/biseccion.h
+functional
+-
+iomanip
+-
+iostream
+-
+string
+-
+cmath
+-
+
+/Users/daniel2402/Desktop/dev/c/numerical-analysis/bisection-method/main.cpp
+iostream
+-
+biseccion.h
+/Users/daniel2402/Desktop/dev/c/numerical-analysis/bisection-method/biseccion.h
+cmath
+-
+
