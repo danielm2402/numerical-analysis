@@ -13,17 +13,14 @@ See **List** to find one in particular.
 _To run any algorithm you only need the c ++ compiler that you prefer_
 
 
-## Contributions 🛠️
+## Built with 🛠️
 
 * [C++](http://www.dropwizard.io/1.0.2/docs/) - Programming language used
 
-## Contribuyendo 🖇️
+## Contributions 🖇️
 
 Please feel free to submit PR with any algorithm used for numerical analysis
 
-## Autores ✒️
-
-* **Daniel Munoz**  - [danielm2402](https://github.com/danielm2402)
 
 ## List
 * Bisection Method - (bisection method is a root-finding method that applies to any continuous functions)
