@@ -7,8 +7,6 @@
 #IncludeRegexTransform: 
 
 /Users/daniel2402/Desktop/dev/c/numerical-analysis/bisection-method/biseccion.h
-functional
--
 iomanip
 -
 iostream

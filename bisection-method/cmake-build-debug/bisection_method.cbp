@@ -80,9 +80,6 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/daniel2402/Desktop/dev/c/numerical-analysis/bisection-method/cmake-build-debug/biseccion.h">
-			<Option target="bisection_method"/>
-		</Unit>
 		<Unit filename="/Users/daniel2402/Desktop/dev/c/numerical-analysis/bisection-method/main.cpp">
 			<Option target="bisection_method"/>
 		</Unit>

@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/daniel2402/Desktop/dev/c/numerical-analysis/false-position-method/falsePosition.h
+functional
+-
+iomanip
+-
+iostream
+-
+string
+-
+cmath
+-
+
+/Users/daniel2402/Desktop/dev/c/numerical-analysis/false-position-method/main.cpp
+iostream
+-
+falsePosition.h
+/Users/daniel2402/Desktop/dev/c/numerical-analysis/false-position-method/falsePosition.h
+
