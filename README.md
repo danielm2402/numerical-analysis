@@ -24,6 +24,7 @@ Please feel free to submit PR with any algorithm used for numerical analysis
 
 ## List
 * Bisection Method - (bisection method is a root-finding method that applies to any continuous functions)
+* False Position Method - (false position method is a root-finding method that applies to any continuous functions)
 
 
 ---
