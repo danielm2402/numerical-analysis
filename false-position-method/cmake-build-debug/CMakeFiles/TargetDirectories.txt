@@ -1,3 +1,0 @@
-/Users/daniel2402/Desktop/dev/c/numerical-analysis/false-position-method/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/daniel2402/Desktop/dev/c/numerical-analysis/false-position-method/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/daniel2402/Desktop/dev/c/numerical-analysis/false-position-method/cmake-build-debug/CMakeFiles/false_position_method.dir
