@@ -1,0 +1,3 @@
+/Users/daniel2402/Downloads/Parcial_1_wil/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/daniel2402/Downloads/Parcial_1_wil/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/daniel2402/Downloads/Parcial_1_wil/cmake-build-debug/CMakeFiles/Parcial_1_wil.dir

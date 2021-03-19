@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/daniel2402/Desktop/dev/c/numerical-analysis/linear-regression/linearRegression.h
+vector
+-
+cmath
+/Users/daniel2402/Desktop/dev/c/numerical-analysis/linear-regression/cmath
+
+/Users/daniel2402/Desktop/dev/c/numerical-analysis/linear-regression/main.cpp
+iostream
+-
+vector
+-
+linearRegression.h
+/Users/daniel2402/Desktop/dev/c/numerical-analysis/linear-regression/linearRegression.h
+
