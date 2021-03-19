@@ -26,6 +26,9 @@ Please feel free to submit PR with any algorithm used for numerical analysis
 * Bisection Method - (bisection method is a root-finding method that applies to any continuous functions)
 * False Position Method - (false position method is a root-finding method that applies to any continuous functions)
 * Newton Raphson Method - (newton raphson methon is a root-finding method that applies to any continuios functions)
+* Muller's Method - (Muller's method is a root-finding method that applies to any continuios functions)
+* All root search methods (all of the above)
+* Simple Linear Regression (In linear regression, the relationships are modeled using linear predictor functions whose unknown model parameters are estimated from the data.)
 
 
 ---
