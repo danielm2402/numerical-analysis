@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/User/Desktop/dev/c++/trapezoidal-rule/main.cpp
+iostream
+-
+cmath
+-
+trapeze.h
+C:/Users/User/Desktop/dev/c++/trapezoidal-rule/trapeze.h
+
+C:/Users/User/Desktop/dev/c++/trapezoidal-rule/trapeze.h
+functional
+C:/Users/User/Desktop/dev/c++/trapezoidal-rule/functional
+

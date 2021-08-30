@@ -1,0 +1,3 @@
+C:/Users/User/Desktop/dev/c++/trapezoidal-rule/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/User/Desktop/dev/c++/trapezoidal-rule/cmake-build-debug/CMakeFiles/trapezoidal_rule.dir
+C:/Users/User/Desktop/dev/c++/trapezoidal-rule/cmake-build-debug/CMakeFiles/edit_cache.dir
