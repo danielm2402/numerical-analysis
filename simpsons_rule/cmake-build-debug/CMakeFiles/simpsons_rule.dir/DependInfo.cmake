@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/User/Desktop/dev/c++/simpsons_rule/main.cpp" "C:/Users/User/Desktop/dev/c++/simpsons_rule/cmake-build-debug/CMakeFiles/simpsons_rule.dir/main.cpp.obj"
+  "C:/Users/User/Desktop/dev/c++/numerical-analysis/simpsons_rule/main.cpp" "C:/Users/User/Desktop/dev/c++/numerical-analysis/simpsons_rule/cmake-build-debug/CMakeFiles/simpsons_rule.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "MSVC")
 

@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/User/Desktop/dev/c++/simpsons_rule
+# Install script for directory: C:/Users/User/Desktop/dev/c++/numerical-analysis/simpsons_rule
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/User/Desktop/dev/c++/simpsons_rule/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/User/Desktop/dev/c++/numerical-analysis/simpsons_rule/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
