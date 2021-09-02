@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/User/Desktop/dev/c++/simpsons_rule/main.cpp
+iostream
+-
+simpson.h
+C:/Users/User/Desktop/dev/c++/simpsons_rule/simpson.h
+
+C:/Users/User/Desktop/dev/c++/simpsons_rule/simpson.h
+functional
+-
+utility
+-
+
